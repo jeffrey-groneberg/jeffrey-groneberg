@@ -14,44 +14,58 @@
 *08/2022 – Present*  
 Munich, Germany
 
-- Advising customers on their Microsoft Azure journey
-- On-site and remote workshops (Architecture Reviews, Azure Functions, App Services, Micro Services, Github Copilot and OpenAI)
-- Working as a support engineer in the customer's development teams (Terraform scripting, Java development, Azure functions with C#) to enable or drive projects by contributing to their code base
-- Conference, university, and dev community talks
+- **Advising** customers on their Microsoft Azure journey
+- **Supporting** strategic customers (e.g., Volkswagen, BMW, EON, Mercedes-Benz) in their cloud adoption and migration journeys with specialized technical and architectural best practices
+- **Removing** technical blockers to cloud value realization by addressing issues and problems at product group and internal development
+- **Conducting** on-site and remote workshops (Architecture Reviews, Azure Functions, App Services, Micro Services, GitHub Copilot and OpenAI)
+- **Helping** the customer's development teams (Terraform scripting, Java development, Azure functions with C#) to enable or drive projects by contributing to their code base
+- **Delivering** conference, university, and dev community talks
 
-### Principal Cloud Solution Architect - SAP IT
+### Team Lead - SAP IT
 **SAP SE**  
-*11/2015 – 07/2022*  
+*09/2021 – 07/2022*  
 Walldorf, Germany
 
-- Team Lead (~1-year temporary function due to a long-time absence of the manager) mentoring colleagues, representing the team in executive calls, establishing a sustainable agile working model, planning, delivering and meeting executive goals
-- Developing Java & Golang applications on SAP BTP Cloud Foundry
-- Implementing Reusable Services (OSBAPI) for SAP IT's service marketplace
-- Open source developer (e.g., [github.com/SAP-samples/cloud-security-client-golang-xsuaa](https://github.com/SAP-samples/cloud-security-client-golang-xsuaa) and [YouTube](https://www.youtube.com/watch?v=gWeLFsEhl1s))
-- Advising external customers (e.g., Telekom, Bayer, Siemens) and internal stakeholders in SAP Business Technology Platform projects and possible cloud migration
-- Lead for SAP IT's cloud development knowledge base and learning strategy
-- Worldwide classroom trainer for SAP IT developers
-- Establishing processes, governance & architecture guidelines for SAP BTP development
-- Operation and responsibility for more than 1000 applications
-- Feasibility studies and early technical feedback for new SAP products
-- Speaker at conferences and universities (ASUG, SAP DKOM, University of Applied Sciences Mannheim)
+- **Mentored** and led colleagues by establishing a feedback channel to facilitate growth and development
+- **Introduced** a sustainable and successful agile working model within an internationally distributed team
+- **Reworked** existing operation processes and **implemented** automations to optimize efficiency
+- **Planned**, **delivered**, and **met** executive goals and budgets to drive success
+- **Represented** the team in executive calls to ensure alignment and communication
+- **Removed** obstacles in daily business and operations to streamline workflow
+- **Mediated** and **resolved** conflicts and interests within the team to foster collaboration and productivity
+
+### Principal Cloud Solution Architect - SAP IT - Customer facing representative, instructor, backend developer
+**SAP SE**  
+*11/2015 – 08/2021*  
+Walldorf, Germany
+
+- **Developing** Java & Golang applications on SAP BTP Cloud Foundry
+- **Implementing** Reusable Services (OSBAPI) for SAP IT's service marketplace
+- **Creating** open source projects (e.g., [github.com/SAP-samples/cloud-security-client-golang-xsuaa](https://github.com/SAP-samples/cloud-security-client-golang-xsuaa) and [YouTube](https://www.youtube.com/watch?v=gWeLFsEhl1s))
+- **Advising** external customers (e.g., Telekom, Bayer, Siemens) and internal stakeholders in SAP Business Technology Platform projects and possible cloud migration
+- **Leading** SAP IT's cloud development knowledge base and learning strategy
+- **Training** developers worldwide for SAP IT
+- **Establishing** processes, governance & architecture guidelines for SAP BTP development
+- **Managing** operation and responsibility for more than 1000 applications
+- **Conducting** feasibility studies and providing early technical feedback for new SAP products
+- **Speaking** at conferences and universities (ASUG, SAP DKOM, University of Applied Sciences Mannheim)
 
 ### Senior Program Architect - SAP IT
 **SAP SE**  
 *05/2013 – 10/2015*  
 Walldorf, Germany
 
-- Technical lead and architectural support for SAP IT projects (e.g., "SAP IT goes SAP HANA", SAP Store - SAP Hybris - [store.sap.com](https://store.sap.com))
-- Creating technical project documentations
+- **Providing** technical lead and architectural support for SAP IT projects (e.g., "SAP IT goes SAP HANA", SAP Store - SAP Hybris - [store.sap.com](https://store.sap.com))
+- **Creating** technical project documentations
 
 ### Mobile Developer - SAP Dev
 **SAP SE**  
 *05/2011 – 04/2013*  
 Karlsruhe, Germany
 
-- Building up mobile apps (e.g., [SAP EMR](https://www.youtube.com/watch?v=n1eU5XgfOE0) for Android, iOS, and Windows RT)
-- Creation and support of an extension API for customers
-- On-site requirements engineering and prototype feedback in German hospitals
+- **Building** up mobile apps (e.g., [SAP EMR](https://www.youtube.com/watch?v=n1eU5XgfOE0) for Android, iOS, and Windows RT)
+- **Creating** and **supporting** an extension API for customers
+- **Conducting** on-site requirements engineering and prototype feedback in German hospitals
 
 ### Student - Part Time / Intern / Thesis
 **SAP SE**  
@@ -63,9 +77,9 @@ Walldorf, Germany
 *2009 – 2011*  
 Mannheim, Germany
 
-- Helping students during classroom programming exercises
-- Providing Software Engineering lectures
-- Preparing students for their math exams
+- **Helping** students during classroom programming exercises
+- **Providing** Software Engineering lectures
+- **Preparing** students for their math exams
 
 ## 🎓 Education
 
