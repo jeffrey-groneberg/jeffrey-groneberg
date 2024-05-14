@@ -1,6 +1,6 @@
 # Jeffrey Groneberg
 
-![Profile Picture](https://github.com/jeffreygroneberg) <!-- Update this link with your actual profile picture URL -->
+![https://github.com/jeffreygroneberg](https://media.licdn.com/dms/image/D4E03AQHsI_buRlb2tw/profile-displayphoto-shrink_800_800/0/1695121205124?e=1721260800&v=beta&t=X2wxnH2EdEE5H73Vg69dSpJjYXVHL0XuA6XkZ6F5u6E) 
 
 - **Date of Birth**: 17/11/1983
 - **Nationality**: German
