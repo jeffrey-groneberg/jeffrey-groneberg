@@ -1,13 +1,13 @@
 # Jeffrey Groneberg - CSA - Microsoft 
 
-![https://github.com/jeffreygroneberg](https://media.licdn.com/dms/image/D4E03AQHsI_buRlb2tw/profile-displayphoto-shrink_800_800/0/1695121205124?e=1721260800&v=beta&t=X2wxnH2EdEE5H73Vg69dSpJjYXVHL0XuA6XkZ6F5u6E) 
+![Profile Picture](https://media.licdn.com/dms/image/D4E03AQHsI_buRlb2tw/profile-displayphoto-shrink_800_800/0/1695121205124?e=1721260800&v=beta&t=X2wxnH2EdEE5H73Vg69dSpJjYXVHL0XuA6XkZ6F5u6E) 
 
-- **Date of Birth**: 17/11/1983
-- **Nationality**: German
-- **LinkedIn**: [linkedin.com/in/jeffrey-groneberg-84b47412](https://www.linkedin.com/in/jeffrey-groneberg-84b47412)
-- **GitHub**: [github.com/jeffreygroneberg](https://github.com/jeffreygroneberg)
+- **📅 Date of Birth**: 17/11/1983
+- **🌍 Nationality**: German
+- **🔗 LinkedIn**: [linkedin.com/in/jeffrey-groneberg-84b47412](https://www.linkedin.com/in/jeffrey-groneberg-84b47412)
+- **💻 GitHub**: [github.com/jeffreygroneberg](https://github.com/jeffreygroneberg)
 
-## Work Experience
+## 💼 Work Experience
 
 ### Cloud Solution Architect - CSU Application Innovation
 **Microsoft Germany GmbH**  
@@ -67,7 +67,7 @@ Mannheim, Germany
 - Providing Software Engineering lectures
 - Preparing students for their math exams
 
-## Education
+## 🎓 Education
 
 ### Computer Science | Master of Science
 **University of Applied Sciences Mannheim**  
@@ -81,7 +81,7 @@ Mannheim, Germany
 Mannheim, Germany  
 **Final Grade**: 1.4 (German grading system)
 
-## Certificates
+## 📜 Certificates
 
 ### Azure Fundamentals - AZ 900
 **Microsoft**  
@@ -94,7 +94,7 @@ Earners of the Azure Fundamentals certification have demonstrated foundational k
 [IEEE Explore Document](https://ieeexplore.ieee.org/document/5457772)  
 One year-long training for SAP Development Architects with on-the-job exercises & soft skills workshops
 
-## Publications
+## 📝 Publications
 
 ### Demystifying XSUAA in SAP Cloud Foundry
 *08/2020*  
@@ -105,4 +105,3 @@ Article on SAP BTP AuthN/Z solutions which received over 100,000 views so far an
 *06/2022*  
 [Link to article](https://blogs.sap.com/2022/06/13/distributed-data-and-cross-database-access-in-hybrid-cloud-landscapes-with-sap-hana-cloud-and-sda/)  
 Another article in the community that showcases and explained the concepts of how to share SAP HANA data across hybrid landscapes and micro services.
-
