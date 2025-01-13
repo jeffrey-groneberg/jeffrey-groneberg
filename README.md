@@ -1,6 +1,5 @@
 # Jeffrey Groneberg - CSA - Microsoft 
 
-- **📅 Date of Birth**: 17/11/1983
 - **🌍 Nationality**: German
 - **🔗 LinkedIn**: [linkedin.com/in/jeffrey-groneberg-84b47412](https://www.linkedin.com/in/jeffrey-groneberg-84b47412)
 - **💻 GitHub**: [github.com/jeffreygroneberg](https://github.com/jeffreygroneberg)
