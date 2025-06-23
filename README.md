@@ -4,6 +4,8 @@
 - **🔗 LinkedIn**: [linkedin.com/in/jeffrey-groneberg-84b47412](https://www.linkedin.com/in/jeffrey-groneberg-84b47412)
 - **💻 GitHub**: [github.com/jeffreygroneberg](https://github.com/jeffreygroneberg)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffreygroneberg&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 💼 Work Experience
 
 ### Cloud Solution Architect - CSU Application Innovation
