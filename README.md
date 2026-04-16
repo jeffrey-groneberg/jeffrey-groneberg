@@ -12,7 +12,7 @@
 
 Senior Solution Engineer for **Apps & AI at Microsoft** with 20+ years of experience in cloud architecture, platform engineering, and AI-driven development. I help strategic enterprise customers accelerate their cloud journeys on Azure — from architecture design to hands-on code contributions.
 
-🌍 Based in Munich, Germany &nbsp;|&nbsp; 🇩🇪 German nationality
+🌍 Based in Birkenau (Odenwald), Germany &nbsp;|&nbsp; 🇩🇪 German nationality
 
 ---
 
@@ -50,8 +50,8 @@ Senior Solution Engineer for **Apps & AI at Microsoft** with 20+ years of experi
 
 | Period | Role | Company | Location |
 |--------|------|---------|----------|
-| 2026 – Present | **Senior Solution Engineer — Apps & AI** | Microsoft Germany GmbH | Munich 🇩🇪 |
-| 2022 – 2026 | **Cloud Solution Architect — CSU Application Innovation** | Microsoft Germany GmbH | Munich 🇩🇪 |
+| 2026 – Present | **Senior Solution Engineer — Apps & AI** | Microsoft Germany GmbH | Birkenau 🇩🇪 |
+| 2022 – 2026 | **Cloud Solution Architect — CSU Application Innovation** | Microsoft Germany GmbH | Birkenau 🇩🇪 |
 | 2021 – 2022 | **Team Lead — SAP IT Platform CoE** | SAP SE | Walldorf 🇩🇪 |
 | 2015 – 2021 | **Principal Cloud Solution Architect** | SAP SE | Walldorf 🇩🇪 |
 | 2013 – 2015 | **Senior Program Architect — IT Enterprise Architecture** | SAP SE | Walldorf 🇩🇪 |
