@@ -49,7 +49,8 @@ Senior Solution Engineer for **Apps & AI at Microsoft** with 20+ years of experi
 
 | Period | Role | Company | Location |
 |--------|------|---------|----------|
-| 2022 – Present | **Senior Solution Engineer — Apps & AI** | Microsoft Germany GmbH | Munich 🇩🇪 |
+| 2024 – Present | **Senior Solution Engineer — Apps & AI** | Microsoft Germany GmbH | Munich 🇩🇪 |
+| 2022 – 2024 | **Cloud Solution Architect — CSU Application Innovation** | Microsoft Germany GmbH | Munich 🇩🇪 |
 | 2021 – 2022 | **Team Lead — SAP IT Platform CoE** | SAP SE | Walldorf 🇩🇪 |
 | 2015 – 2021 | **Principal Cloud Solution Architect** | SAP SE | Walldorf 🇩🇪 |
 | 2013 – 2015 | **Senior Program Architect — IT Enterprise Architecture** | SAP SE | Walldorf 🇩🇪 |
@@ -59,13 +60,18 @@ Senior Solution Engineer for **Apps & AI at Microsoft** with 20+ years of experi
 <details>
 <summary>📖 <b>Click for detailed role descriptions</b></summary>
 
-### Microsoft Germany GmbH — Senior Solution Engineer (2022 – Present)
-- Account swarming for strategic Azure customers; mitigating technical blockers with Azure Product Engineering
-- Creating and delivering workshops/hackathons/trainings to 2,500+ participants/year
-- Defining strategic platform engineering roadmaps using reference architectures and best practices
-- Collaborating with Data & AI CSAs to blueprint application workloads and scalable landing zones
+### Microsoft Germany GmbH — Senior Solution Engineer, Apps & AI (2024 – Present)
+- Designing and delivering AI-focused workshops and accelerators (GitHub Copilot, Azure AI, Multi-Agent Patterns) to enterprise customers
+- Enabling strategic accounts to adopt AI-driven development workflows and agentic architectures
+- Conference, university, and dev community speaker on AI and cloud-native topics
+- Contributing to customer codebases and open-source workshops (Python, C#, Terraform)
+
+### Microsoft Germany GmbH — Cloud Solution Architect, CSU App Innovation (2022 – 2024)
+- Account swarming for strategic Azure customers (Volkswagen, BMW, EON, Mercedes-Benz, DPDHL, Commerzbank, Deutsche Bahn); mitigating technical blockers with Azure Product Engineering
+- Creating and delivering on-site/remote workshops/hackathons/trainings to 2,500+ participants/year
+- Defining strategic platform engineering roadmaps using reference architectures and best practices, helping teams scale (e.g., €2K → €50K monthly consumption within 6 months)
+- Collaborating with Data & AI CSAs to blueprint application workloads and scalable landing zones (e.g., LIDL — Apache Airflow/Spark, Volkswagen — OpenAI Chatbot)
 - Contributing to customer codebases (C#, Java, Terraform); lead technical interviewer (20+ hires)
-- Conference, university, and dev community speaker
 
 ### SAP SE — Team Lead, Platform CoE (2021 – 2022)
 - Managing a team of 15 internationally distributed people and third-party services (EPAM, TCS)
@@ -117,6 +123,7 @@ Senior Solution Engineer for **Apps & AI at Microsoft** with 20+ years of experi
 
 | Year | Title | Link |
 |------|-------|------|
+| 2025 | **Multi-Agent Patterns Workshop** — Hands-on workshop teaching agentic AI design patterns (tool use, sequential, concurrent, group chat, handoff, magentic) using pure Python and the OpenAI SDK | [🔗 Repository](https://github.com/jeffreygroneberg/AI_Workshop_Agentic_Patterns) |
 | 2025 | **The Azure AI Agent Workshop** — Lab for automotive customers, training hundreds of developers in AI agent development | [🔗 Workshop](https://ailabs.jeff-tech.de/) |
 | 2024 | **GitHub Copilot Customer Workshop** — Utilized by thousands of developers across training sessions worldwide | [🔗 Repository](https://azure-samples.github.io/github-copilot-hands-on/) |
 | 2022 | **Distributed Data & Cross Database Access in Hybrid Cloud Landscapes** — SAP HANA Cloud and SDA | [🔗 Article](https://blogs.sap.com/2022/06/13/distributed-data-and-cross-database-access-in-hybrid-cloud-landscapes-with-sap-hana-cloud-and-sda/) |
