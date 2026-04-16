@@ -18,7 +18,7 @@ Senior Solution Engineer for **Apps & AI at Microsoft** with 20+ years of experi
 
 ## 🚀 What I Do
 
-- **Account Swarming** — Supporting strategic Azure accounts (Volkswagen, BMW, EON, Mercedes-Benz, DPDHL, Commerzbank, Deutsche Bahn) by mitigating technical blockers with Azure Product Engineering and managing stakeholders
+- **Account Swarming** — Full-time dedicated to the **SAP SE** strategic account, supporting their Azure journey by mitigating technical blockers with Azure Product Engineering and managing stakeholders
 - **Workshops & Training** — Creating and delivering on-site/remote workshops, hackathons, and classroom trainings (Azure, Architecture Reviews, Micro Services, GitHub Copilot, AI Accelerators) to **2,500+ participants per year**
 - **Agentic AI & AI Coding** — Designing and delivering workshops on multi-agent patterns, AI-assisted development with GitHub Copilot, and building agentic AI applications on Azure
 - **Platform Engineering** — Defining strategic long-term platform roadmaps following reference architecture designs, helping teams scale (e.g., €2K → €50K monthly consumption within 6 months)
