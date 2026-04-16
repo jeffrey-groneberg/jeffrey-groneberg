@@ -1,134 +1,141 @@
-# Jeffrey Groneberg - CSA - Microsoft 
+<div align="center">
 
-- **🌍 Nationality**: German
-- **🔗 LinkedIn**: [linkedin.com/in/jeffrey-groneberg-84b47412](https://www.linkedin.com/in/jeffrey-groneberg-84b47412)
-- **💻 GitHub**: [github.com/jeffreygroneberg](https://github.com/jeffreygroneberg)
+<img src="assets/header.gif" alt="Jeffrey Groneberg" width="840"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffreygroneberg&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffrey-groneberg-84b47412)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeffreygroneberg)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/42725564-7918-49a9-9047-c1e2160b4923/linked_in_profile)
 
-## 💼 Work Experience
+</div>
 
-### Cloud Solution Architect - CSU Application Innovation
-**Microsoft Germany GmbH**  
-*08/2022 – Present*  
-Munich, Germany
+## 👋 About Me
 
-- **Account swarming** supporting strategic Microsoft Azure accounts (e.g., Volkswagen, BMW, EON, Mercedes-Benz, DPDHL, Commerzbank, Deutsche Bahn) in their cloud journeys by mitigating technical blockers (working with Azure Product Engineering) and managing stakeholders
-- **Creating & delivering** on-site/remote workshops/hackathons/classroom trainings (Azure Enablement, Architecture Reviews, Azure Platform Services, Micro Services, GitHub Copilot and AI Accelerators) to more than 2500 participants per year
-- **Defining** strategic long term (data) platform engineering roadmaps with account teams following reference architecture designs and best practices helping teams scale (e.g., scaling platform teams from €2000 to €50000 monthly consumption rate within 6 months)
-- **Collaborating** with Data & AI CSAs to blueprint & implement application workloads & scalable landing zones for data platform teams (e.g., SCRM (LIDL app - Apache Airflow and Apache Sparks), Volkswagen (OpenAI - Chatbot and Knowledge Base))
-- **Contributing** regularly to customer's code bases to develop new features or mitigate bugs (C#, Java, Terraform)
-- **Lead technical interviewer** in more than 20 hirings within our organization
-- **Conference, university, and dev community talks**
+Senior Solution Engineer for **Apps & AI at Microsoft** with 20+ years of experience in cloud architecture, platform engineering, and AI-driven development. I help strategic enterprise customers accelerate their cloud journeys on Azure — from architecture design to hands-on code contributions.
 
-### Team Lead - SAP IT - Platform CoE
-**SAP SE**  
-*09/2021 – 07/2022*  
-Walldorf, Germany
+🌍 Based in Munich, Germany &nbsp;|&nbsp; 🇩🇪 German nationality
 
-- **Managing** (including hiring) a team of 15 internationally distributed people & third party services (EPAM and TCS)
-- **Introduced** a sustainable and successful agile working model adopting scrum and SAFe
-- **Operation and responsibility** for more than 1000 applications running on SAP BTP
-- **Reworked** existing operation processes and implemented automations to optimize efficiency (decreased tenant provisioning time by >50%)
-- **Represented** the team in executive calls to ensure alignment across stakeholders, LoBs and SLT
-- **Introduced** weekly office hours for LoBs and customers
+---
 
-### Principal Cloud Solution Architect - SAP IT - Platform CoE
-**SAP SE**  
-*11/2015 – 08/2021*  
-Walldorf, Germany
+## 🚀 What I Do
 
-- **Founding member** and one of the lead architects of the SAP IT Platform CoE (helping it scale from 7 to 50 colleagues)
-- **Building** a SAP BTP developer platform from scratch for more than 2000 developers and operating more than 1000 applications (Governance, 24/7 support, onboarding, provisioning, security and SOX relevant self-service portal)
-- **Part of** the SAP IT Lead Architect roundtable for strategic roadmap discussions across all LoBs
-- **Mentor and teacher** for graduates, new hires and associate architects
-- **Designing and scaling** SAP BTP Java reference architectures for all SAP BTP internal cloud applications
-- **Close collaboration** with Data & AI & SAP BW platform team (using SAP SLT, SAP HANA SDA/SDI, Apache Spark, SAP Data Intelligence and SAP Analytics Cloud)
-- **Expert** for SAP BTP oAuth2 AuthN/Z
-- **Advising** external customers (e.g., Telekom, Bayer, Siemens) and internal stakeholders in SAP BTP cloud migrations and reviewing their future roadmap
-- **Lead** for SAP IT's cloud native development knowledge base and learning strategy
-- **Worldwide classroom trainer** (e.g., Singapore, Vancouver, and Israel) for SAP BTP and cloud native development
-- **Feasibility studies** and early technical feedback for SAP BTP Product Engineering
-- **Speaker** at conferences and universities (ASUG, SAP DKOM, University of Applied Sciences Mannheim)
+- **Account Swarming** — Supporting strategic Azure accounts (Volkswagen, BMW, EON, Mercedes-Benz, DPDHL, Commerzbank, Deutsche Bahn) by mitigating technical blockers with Azure Product Engineering and managing stakeholders
+- **Workshops & Training** — Creating and delivering on-site/remote workshops, hackathons, and classroom trainings (Azure, Architecture Reviews, Micro Services, GitHub Copilot, AI Accelerators) to **2,500+ participants per year**
+- **Platform Engineering** — Defining strategic long-term platform roadmaps following reference architecture designs, helping teams scale (e.g., €2K → €50K monthly consumption within 6 months)
+- **Hands-on Engineering** — Contributing regularly to customer codebases in C#, Java, Terraform, Go, and Python
+- **Technical Hiring** — Lead technical interviewer in 20+ hires within our organization
 
-### Senior Program Architect - IT Enterprise Architecture
-**SAP SE**  
-*05/2013 – 10/2015*  
-Walldorf, Germany
+---
 
-- **Technical lead** and architectural support for SAP IT projects (e.g., "SAP IT goes SAP HANA", SAP Store - SAP Hybris - [store.sap.com](https://store.sap.com))
+## 🛠️ Tech Stack
 
-### Developer - SAP EMR
-**SAP SE**  
-*05/2011 – 04/2013*  
-Karlsruhe, Germany
+<div align="center">
 
-- **Building** mobile apps (iOS, Android and Windows) for patients and physicians and respective backend services (e.g., [SAP EMR](https://www.youtube.com/watch?v=n1eUSxgfcOE))
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000?style=flat-square&logo=githubcopilot&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### Student - Part Time / Intern / Thesis
-**SAP SE**  
-*03/2005 – 04/2011*  
-Walldorf, Germany
+</div>
 
-### Student Assistant/Tutor
-**University of Applied Sciences Mannheim**  
-*2009 – 2011*  
-Mannheim, Germany
+---
 
-- **Helping** students during classroom programming exercises
-- **Providing** Software Engineering lectures
-- **Preparing** students for their math exams
+## 💼 Experience
+
+| Period | Role | Company | Location |
+|--------|------|---------|----------|
+| 2022 – Present | **Senior Solution Engineer — Apps & AI** | Microsoft Germany GmbH | Munich 🇩🇪 |
+| 2021 – 2022 | **Team Lead — SAP IT Platform CoE** | SAP SE | Walldorf 🇩🇪 |
+| 2015 – 2021 | **Principal Cloud Solution Architect** | SAP SE | Walldorf 🇩🇪 |
+| 2013 – 2015 | **Senior Program Architect — IT Enterprise Architecture** | SAP SE | Walldorf 🇩🇪 |
+| 2011 – 2013 | **Developer — SAP EMR** | SAP SE | Karlsruhe 🇩🇪 |
+| 2005 – 2011 | **Working Student / Intern / Thesis** | SAP SE | Walldorf 🇩🇪 |
+
+<details>
+<summary>📖 <b>Click for detailed role descriptions</b></summary>
+
+### Microsoft Germany GmbH — Senior Solution Engineer (2022 – Present)
+- Account swarming for strategic Azure customers; mitigating technical blockers with Azure Product Engineering
+- Creating and delivering workshops/hackathons/trainings to 2,500+ participants/year
+- Defining strategic platform engineering roadmaps using reference architectures and best practices
+- Collaborating with Data & AI CSAs to blueprint application workloads and scalable landing zones
+- Contributing to customer codebases (C#, Java, Terraform); lead technical interviewer (20+ hires)
+- Conference, university, and dev community speaker
+
+### SAP SE — Team Lead, Platform CoE (2021 – 2022)
+- Managing a team of 15 internationally distributed people and third-party services (EPAM, TCS)
+- Introduced agile working model (Scrum/SAFe); operated 1,000+ applications on SAP BTP
+- Reworked operation processes with automations, decreasing tenant provisioning time by >50%
+- Represented team in executive calls; introduced weekly office hours for LoBs and customers
+
+### SAP SE — Principal Cloud Solution Architect (2015 – 2021)
+- Founding member and lead architect of the SAP IT Platform CoE (scaled from 7 → 50 colleagues)
+- Built a SAP BTP developer platform from scratch for 2,000+ developers and 1,000+ applications
+- Part of the SAP IT Lead Architect roundtable for strategic roadmap discussions across all LoBs
+- Expert for SAP BTP oAuth2 AuthN/Z; worldwide classroom trainer (Singapore, Vancouver, Israel)
+- Advised external customers (Telekom, Bayer, Siemens) on SAP BTP cloud migrations
+- Speaker at ASUG, SAP DKOM, University of Applied Sciences Mannheim
+
+### SAP SE — Senior Program Architect (2013 – 2015)
+- Technical lead and architectural support for SAP IT projects ("SAP IT goes SAP HANA", SAP Store)
+
+### SAP SE — Developer, SAP EMR (2011 – 2013)
+- Building mobile apps (iOS, Android, Windows) for patients and physicians ([SAP EMR](https://www.youtube.com/watch?v=n1eUSxgfcOE))
+
+</details>
+
+---
 
 ## 🎓 Education
 
-### Computer Science | Master of Science
-**University of Applied Sciences Mannheim**  
-*2009 – 2011*  
-Mannheim, Germany  
-**Final Grade**: 1.3 (German grading system)
+| Degree | Institution | Grade |
+|--------|-------------|-------|
+| **M.Sc. Computer Science** (2009 – 2011) | University of Applied Sciences Mannheim | 1.3 |
+| **B.Sc. Computer Science** (2005 – 2009) | University of Applied Sciences Mannheim | 1.4 |
 
-### Computer Science | Bachelor of Science
-**University of Applied Sciences Mannheim**  
-*2005 – 2009*  
-Mannheim, Germany  
-**Final Grade**: 1.4 (German grading system)
+---
 
-## 📜 Certificates
+## 🏆 Honors & Awards
 
-### Azure Fundamentals - AZ 900
-**Microsoft**  
-*09/2022*  
-[Credly Badge](https://www.credly.com/badges/42725564-7918-49a9-9047-c1e2160b4923/linked_in_profile)  
-Earners of the Azure Fundamentals certification have demonstrated foundational knowledge of cloud services and how those services are provided with Microsoft Azure.
+- 🏅 **SAP Product Award "Best Design"** (2012) — Received for the SAP EMR application
 
-### SAP Architecture Curriculum
-**SAP SE**  
-[IEEE Explore Document](https://ieeexplore.ieee.org/document/5457772)  
-One year-long training for SAP Development Architects with on-the-job exercises & soft skills workshops
+---
 
-## 📝 Publications
+## 📜 Certifications
 
-### Demystifying XSUAA in SAP Cloud Foundry
-*08/2020*  
-[Link to article](https://blogs.sap.com/2020/08/20/demystifying-xsuaa-in-sap-cloud-foundry/)  
-Authored an article on SAP BTP AuthN/Z solutions, which garnered over 100,000 views, helping to enhance understanding and receiving strong endorsements from the SAP community.
+- ☁️ [**Azure Fundamentals — AZ 900**](https://www.credly.com/badges/42725564-7918-49a9-9047-c1e2160b4923/linked_in_profile) (Microsoft, 2022)
+- 🏛️ [**SAP Architecture Curriculum**](https://ieeexplore.ieee.org/document/5457772) (SAP SE)
 
-### SAP XSUAA Golang client library
-*07/2021*  
-[GitHub Repository](https://github.com/SAP-archive/cloud-security-client-golang-xsuaa)  
-Developed a Golang client library for application developers to easily access authentication and authorization data from SAP Cloud Foundry XSUAA, enhancing security and integration in applications.
+---
 
-### Distributed data and cross database access in hybrid cloud landscapes with SAP HANA Cloud and SDA
-*06/2022*  
-[Link to article](https://blogs.sap.com/2022/06/13/distributed-data-and-cross-database-access-in-hybrid-cloud-landscapes-with-sap-hana-cloud-and-sda/)  
-Another article in the community that showcases and explained the concepts of how to share SAP HANA data across hybrid landscapes and micro services.
+## 📝 Publications & Projects
 
-### Github Copilot Customer Workshop
-*01/2024*  
-[Workshop Repository](https://azure-samples.github.io/github-copilot-hands-on/)  
-Created a repository for trainers and participants, showcasing GitHub Copilot's capabilities, which has been utilized by thousands of developers in various training sessions and workshops.
+| Year | Title | Link |
+|------|-------|------|
+| 2025 | **The Azure AI Agent Workshop** — Lab for automotive customers, training hundreds of developers in AI agent development | [🔗 Workshop](https://ailabs.jeff-tech.de/) |
+| 2024 | **GitHub Copilot Customer Workshop** — Utilized by thousands of developers across training sessions worldwide | [🔗 Repository](https://azure-samples.github.io/github-copilot-hands-on/) |
+| 2022 | **Distributed Data & Cross Database Access in Hybrid Cloud Landscapes** — SAP HANA Cloud and SDA | [🔗 Article](https://blogs.sap.com/2022/06/13/distributed-data-and-cross-database-access-in-hybrid-cloud-landscapes-with-sap-hana-cloud-and-sda/) |
+| 2021 | **SAP XSUAA Golang Client Library** — Alternative Golang client for AuthZ/N in SAP BTP | [🔗 GitHub](https://github.com/SAP-archive/cloud-security-client-golang-xsuaa) |
+| 2020 | **Demystifying XSUAA in SAP Cloud Foundry** — 100,000+ views on SAP Community | [🔗 Article](https://blogs.sap.com/2020/08/20/demystifying-xsuaa-in-sap-cloud-foundry/) |
 
-### The Azure AI Agent Workshop
-*03/2025*  
-[Workshop Platform](https://ailabs.jeff-tech.de/)  
-Developed "The Azure AI Agent Workshop" lab for automotive customers, which has successfully trained hundreds of developers in AI agent development, helping them to enhance their skills and knowledge.
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffreygroneberg&theme=github_dark&hide_border=true&show_icons=true)](https://github.com/jeffreygroneberg)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreygroneberg&theme=github_dark&hide_border=true&layout=compact)](https://github.com/jeffreygroneberg)
+
+</div>
+
+---
+
+<div align="center">
+<i>💬 Let's connect — I'm always happy to chat about cloud architecture, AI, or platform engineering!</i>
+</div>
