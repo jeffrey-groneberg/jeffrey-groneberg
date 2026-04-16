@@ -21,7 +21,7 @@ Senior Solution Engineer for **Apps & AI at Microsoft** with 20+ years of experi
 - **Agentic AI & AI Coding** — Designing and delivering workshops on multi-agent patterns, AI-assisted development with GitHub Copilot, and building agentic AI applications on Azure
 - **SAP SE Account** — Full-time dedicated to the **SAP SE** strategic account, supporting their Azure journey by mitigating technical blockers with Azure Product Engineering and managing stakeholders
 - **Workshops & Training** — Creating and delivering on-site/remote workshops, hackathons, and classroom trainings (Azure, Architecture Reviews, Micro Services, GitHub Copilot, AI Accelerators) to **2,500+ participants per year**
-- **Platform Engineering** — Defining strategic long-term platform roadmaps following reference architecture designs, helping teams scale (e.g., €2K → €50K monthly consumption within 6 months)
+- **Platform Engineering** — Defining strategic long-term platform roadmaps following reference architecture designs, helping teams scale
 - **Hands-on Engineering** — Contributing regularly to customer codebases in C#, Java, Terraform, Go, and Python
 - **Technical Hiring** — Lead technical interviewer in 20+ hires within our organization
 
