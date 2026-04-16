@@ -49,8 +49,8 @@ Senior Solution Engineer for **Apps & AI at Microsoft** with 20+ years of experi
 
 | Period | Role | Company | Location |
 |--------|------|---------|----------|
-| 2024 – Present | **Senior Solution Engineer — Apps & AI** | Microsoft Germany GmbH | Munich 🇩🇪 |
-| 2022 – 2024 | **Cloud Solution Architect — CSU Application Innovation** | Microsoft Germany GmbH | Munich 🇩🇪 |
+| 2026 – Present | **Senior Solution Engineer — Apps & AI** | Microsoft Germany GmbH | Munich 🇩🇪 |
+| 2022 – 2026 | **Cloud Solution Architect — CSU Application Innovation** | Microsoft Germany GmbH | Munich 🇩🇪 |
 | 2021 – 2022 | **Team Lead — SAP IT Platform CoE** | SAP SE | Walldorf 🇩🇪 |
 | 2015 – 2021 | **Principal Cloud Solution Architect** | SAP SE | Walldorf 🇩🇪 |
 | 2013 – 2015 | **Senior Program Architect — IT Enterprise Architecture** | SAP SE | Walldorf 🇩🇪 |
@@ -60,13 +60,13 @@ Senior Solution Engineer for **Apps & AI at Microsoft** with 20+ years of experi
 <details>
 <summary>📖 <b>Click for detailed role descriptions</b></summary>
 
-### Microsoft Germany GmbH — Senior Solution Engineer, Apps & AI (2024 – Present)
+### Microsoft Germany GmbH — Senior Solution Engineer, Apps & AI (2026 – Present)
 - Designing and delivering AI-focused workshops and accelerators (GitHub Copilot, Azure AI, Multi-Agent Patterns) to enterprise customers
 - Enabling strategic accounts to adopt AI-driven development workflows and agentic architectures
 - Conference, university, and dev community speaker on AI and cloud-native topics
 - Contributing to customer codebases and open-source workshops (Python, C#, Terraform)
 
-### Microsoft Germany GmbH — Cloud Solution Architect, CSU App Innovation (2022 – 2024)
+### Microsoft Germany GmbH — Cloud Solution Architect, CSU App Innovation (2022 – 2026)
 - Account swarming for strategic Azure customers (Volkswagen, BMW, EON, Mercedes-Benz, DPDHL, Commerzbank, Deutsche Bahn); mitigating technical blockers with Azure Product Engineering
 - Creating and delivering on-site/remote workshops/hackathons/trainings to 2,500+ participants/year
 - Defining strategic platform engineering roadmaps using reference architectures and best practices, helping teams scale (e.g., €2K → €50K monthly consumption within 6 months)
