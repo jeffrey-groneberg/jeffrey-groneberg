@@ -547,16 +547,23 @@ def main():
     print(f"Generating cyberpunk GIF ({TOTAL_FRAMES} frames)...")
     frames = generate_frames()
 
-    # Hold final frame
-    for _ in range(10):
-        frames.append(frames[-1])
-
     output = "/Users/jeffreygroneberg/GitRepos/jeffreygroneberg/assets/header.gif"
     os.makedirs(os.path.dirname(output), exist_ok=True)
-    frames[0].save(output, save_all=True, append_images=frames[1:],
-                   duration=FRAME_MS, loop=0, optimize=True)
+
+    # Proper GIF: convert all to RGB, then let Pillow handle palette per-frame
+    rgb_frames = []
+    for f in frames:
+        rgb_frames.append(f.convert("RGB").copy())
+
+    # Add hold frames as actual copies
+    last = rgb_frames[-1].copy()
+    for _ in range(10):
+        rgb_frames.append(last.copy())
+
+    rgb_frames[0].save(output, save_all=True, append_images=rgb_frames[1:],
+                       duration=FRAME_MS, loop=0)
     size_kb = os.path.getsize(output) / 1024
-    print(f"Saved: {output} ({len(frames)} frames, {size_kb:.0f}KB)")
+    print(f"Saved: {output} ({len(rgb_frames)} frames, {size_kb:.0f}KB)")
 
 
 if __name__ == "__main__":
