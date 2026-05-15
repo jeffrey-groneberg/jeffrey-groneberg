@@ -3,7 +3,7 @@
 <img src="assets/header.gif" alt="Jeffrey Groneberg" width="840"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffrey-groneberg-84b47412)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeffreygroneberg)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeffrey-groneberg)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/42725564-7918-49a9-9047-c1e2160b4923/linked_in_profile)
 
 </div>
@@ -137,8 +137,8 @@ Senior Solution Engineer for **Apps & AI at Microsoft** with 20+ years of experi
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffreygroneberg&theme=github_dark&hide_border=true&show_icons=true)](https://github.com/jeffreygroneberg)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreygroneberg&theme=github_dark&hide_border=true&layout=compact)](https://github.com/jeffreygroneberg)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffrey-groneberg&theme=github_dark&hide_border=true&show_icons=true)](https://github.com/jeffrey-groneberg)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrey-groneberg&theme=github_dark&hide_border=true&layout=compact)](https://github.com/jeffrey-groneberg)
 
 </div>
 
