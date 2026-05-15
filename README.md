@@ -124,7 +124,7 @@ Senior Solution Engineer for **Apps & AI at Microsoft** with 20+ years of experi
 
 | Year | Title | Link |
 |------|-------|------|
-| 2025 | **Multi-Agent Patterns Workshop** — Hands-on workshop teaching agentic AI design patterns (tool use, sequential, concurrent, group chat, handoff, magentic) using pure Python and the OpenAI SDK | [🔗 Workshop](https://jeffreygroneberg.github.io/AI_Workshop_Agentic_Patterns/) |
+| 2025 | **Multi-Agent Patterns Workshop** — Hands-on workshop teaching agentic AI design patterns (tool use, sequential, concurrent, group chat, handoff, magentic) using pure Python and the OpenAI SDK | [🔗 Workshop](https://jeffrey-groneberg.github.io/AI_Workshop_Agentic_Patterns/) |
 | 2025 | **The Azure AI Agent Workshop** — Lab for automotive customers, training hundreds of developers in AI agent development | [🔗 Workshop](https://ailabs.jeff-tech.de/) |
 | 2024 | **GitHub Copilot Customer Workshop** — Utilized by thousands of developers across training sessions worldwide | [🔗 Repository](https://azure-samples.github.io/github-copilot-hands-on/) |
 | 2022 | **Distributed Data & Cross Database Access in Hybrid Cloud Landscapes** — SAP HANA Cloud and SDA | [🔗 Article](https://blogs.sap.com/2022/06/13/distributed-data-and-cross-database-access-in-hybrid-cloud-landscapes-with-sap-hana-cloud-and-sda/) |
