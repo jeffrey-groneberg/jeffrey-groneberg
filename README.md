@@ -137,8 +137,8 @@ Senior Solution Engineer for **Apps & AI at Microsoft** with 20+ years of experi
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffrey-groneberg&theme=github_dark&hide_border=true&show_icons=true)](https://github.com/jeffrey-groneberg)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrey-groneberg&theme=github_dark&hide_border=true&layout=compact)](https://github.com/jeffrey-groneberg)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jeffrey-groneberg&theme=github_dark&hide_border=true&show_icons=true)](https://github.com/jeffrey-groneberg)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jeffrey-groneberg&theme=github_dark&hide_border=true&layout=compact)](https://github.com/jeffrey-groneberg)
 
 </div>
 
